@@ -1,3 +1,4 @@
-Put your answer files here.
+# Lexical-Substitution
 
-Remember to put your README.username in this directory as well.
+Lexical substitution native python implementation based on GLOVE word vector.
+
